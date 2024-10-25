@@ -1,5 +1,7 @@
 # Basketball-ML-Analysis-Tool
-Basketball ML tool to analyze player behavior and offensive/defensive positioning
+Basketball ML tool to analyze player behavior and offensive/defensive positioning 
+
+note: this code is missing significant portions which mainly comprises of the data used to process as well as the roboflow and yolov8 setup code, which i hope to incoorperate soon to allow for running on local machines.
 
 # Screenshots
 
